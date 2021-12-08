@@ -1,7 +1,5 @@
 # Case Study: Lending Club
 - This is a self learning project to make Exploratory Data Analysis
-- Source URL: https://github.com/JamshedAhsan/fraud-detection
-
 
 
 
